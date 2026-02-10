@@ -1,0 +1,44 @@
+# =====================
+# Secrets / Environment
+# =====================
+.env
+.env.*
+!.env.example
+
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+venv/
+.venv/
+env/
+ENV/
+
+# =====================
+# CrewAI / LLM artifacts
+# =====================
+*.log
+logs/
+outputs/
+memory/
+storage/
+.cache/
+.cache_crewai/
+
+# =====================
+# IDE / OS
+# =====================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =====================
+# Jupyter
+# =====================
+.ipynb_checkpoints/
