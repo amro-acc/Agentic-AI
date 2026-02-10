@@ -1,0 +1,16 @@
+crewai
+crewai_tools
+langchain
+langchain_community
+python-dotenv
+IPython
+pydantic
+openai
+groq
+tiktoken
+requests
+beautifulsoup4
+litellm
+langchain_openai
+ollama-openai-proxy
+langchain_ollama

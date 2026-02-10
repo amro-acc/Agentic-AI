@@ -1,0 +1,7 @@
+crewai
+crewai_tools
+langchain
+langchain_community
+IPython
+python-dotenv
+openai>=1.40.0
